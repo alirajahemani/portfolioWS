@@ -1,0 +1,6 @@
+C:\Users\alira\Desktop\Practice\WSForPortfolio\WSForPortfolio\bin\WSForPortfolio.dll.config
+C:\Users\alira\Desktop\Practice\WSForPortfolio\WSForPortfolio\bin\WSForPortfolio.dll
+C:\Users\alira\Desktop\Practice\WSForPortfolio\WSForPortfolio\bin\WSForPortfolio.pdb
+C:\Users\alira\Desktop\Practice\WSForPortfolio\WSForPortfolio\obj\Debug\WSForPortfolio.csprojResolveAssemblyReference.cache
+C:\Users\alira\Desktop\Practice\WSForPortfolio\WSForPortfolio\obj\Debug\WSForPortfolio.dll
+C:\Users\alira\Desktop\Practice\WSForPortfolio\WSForPortfolio\obj\Debug\WSForPortfolio.pdb
